@@ -33,7 +33,7 @@ NLP, Software Maintenance, Software Engineering**
 </p>
 
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Development:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -79,13 +79,7 @@ NLP, Software Maintenance, Software Engineering**
     height="40"
   />
 </a>
-</p>
-
-
-
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -125,12 +119,7 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Backend Development:</h3>
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
       alt="spring"
@@ -138,12 +127,7 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Mobile App Development:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android"
@@ -151,15 +135,9 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">AI/ML:</h3>
-<p align="left">
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      src="https://pandas.pydata.org/static/img/pandas_mark_white.svg"
       alt="pandas"
       width="40"
       height="40"
@@ -183,8 +161,7 @@ NLP, Software Maintenance, Software Engineering**
   </a>
 </p>
 
-
-<h3 align="left">Database:</h3>
+<h3 align="left">Tool & Softwares:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -202,12 +179,7 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Devops:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
@@ -215,27 +187,15 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Framework:</h3>
-<p align="left">
-  
-
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://www.ciaogusto.it/wp-content/uploads/2020/11/png-clipart-flask-by-example-python-web-framework-bottle-bottle-white-black.png"
       alt="flask"
       width="40"
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Testing:</h3>
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
       alt="selenium"
@@ -243,38 +203,23 @@ NLP, Software Maintenance, Software Engineering**
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Static Site Generators:</h3>
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"
       alt="nextjs"
       width="40"
       height="40"
     />
   </a>
-</p>
-
-
-<h3 align="left">Game Engines:</h3>
-<p align="left">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"
       alt="unity"
       width="40"
       height="40"
     />
   </a>
-</p>
-  
-  
-<h3 align="left">Software:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
