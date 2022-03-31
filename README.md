@@ -2,7 +2,7 @@
 <h3 align="center">
   I'm 23, from Italy. I obtained my BSc in Computer Science in 2021, and I'm
   attending the Master Degree in Computer Science at the University of Salerno,
-  in particular the **Software Engineering and IT Management** track. My studies are based on both Software Engineering
+  in particular the <b>Software Engineering and IT Management</b> track. My studies are based on both Software Engineering
   and Artificial Intelligence courses.  I have been working as a front-end developer with React and a lot of recent technologies.
 </h3>
 
@@ -14,9 +14,9 @@
 </p>
 
 - 🔭 I’m currently working on **Chatbots, Community Smells, Machine Learning,
-NLP, Software Maintenance, Software Engineering** - 📫 How to reach me
+NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
 **voriagianmario@gmail.com**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gianmario-voria" target="blank"
@@ -277,11 +277,7 @@ NLP, Software Maintenance, Software Engineering** - 📫 How to reach me
     height="40"
   />
 </a>
-</p>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
       src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
       alt="blender"
@@ -290,7 +286,6 @@ NLP, Software Maintenance, Software Engineering** - 📫 How to reach me
     />
   </a>
 </p>
-
 
 <p>
   &nbsp;<img
