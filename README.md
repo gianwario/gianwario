@@ -14,9 +14,12 @@
 </p>
 
 - 🔭 I’m currently working on **Chatbots, Community Smells, Machine Learning,
-NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
+NLP, Software Maintenance, Software Engineering** 
+
+- 📫 How to reach me
 **voriagianmario@gmail.com**
-<br/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/gianmario-voria" target="blank"
@@ -28,6 +31,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
       width="40"
   /></a>
 </p>
+
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -75,7 +80,9 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
   />
 </a>
 </p>
-<br/>
+
+
+
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -119,7 +126,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -131,7 +139,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Mobile App Development:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -143,7 +152,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">AI/ML:</h3>
 <p align="left">
   
@@ -172,7 +182,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -192,7 +203,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Devops:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -204,7 +216,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Framework:</h3>
 <p align="left">
   
@@ -218,7 +231,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Testing:</h3>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
@@ -230,7 +244,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Static Site Generators:</h3>
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -242,7 +257,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+
+
 <h3 align="left">Game Engines:</h3>
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
@@ -254,7 +270,8 @@ NLP, Software Maintenance, Software Engineering** <br/>- 📫 How to reach me
     />
   </a>
 </p>
-<br/>
+  
+  
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
