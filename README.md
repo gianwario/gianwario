@@ -248,11 +248,3 @@ NLP, Software Maintenance, Software Engineering**
     />
   </a>
 </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gianwario&show_icons=true&locale=en"
-    alt="gianwario"
-  />
-</p>
