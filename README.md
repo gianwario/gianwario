@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 I’m currently working on **Chatbots, Community Smells, Machine Learning,
-NLP, Software Maintenance, Software Engineering** 
+NLP, Software Maintenance, Software Engineering, Fairness in ML systems, Quality attributes of ML systems** 
 
 - 📫 How to reach me
 **voriagianmario@gmail.com**
