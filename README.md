@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gianmario Voria</h1>
 <h3 align="center">
-  I'm 23, from Italy. I obtained my BSc in Computer Science in 2021, and I'm
-  attending the Master Degree in Computer Science at the University of Salerno,
-  in particular the <b>Software Engineering and IT Management</b> track. My studies are based on both Software Engineering
-  and Artificial Intelligence courses.  I have been working as a front-end developer with React and a lot of recent technologies.
+  I'm 25, from Italy. I obtained my MSc in Computer Science in 2023, and I'm
+  a Ph.D. student in Computer Science at the University of Salerno. My main research topic is Software Engineering for Artificial Intelligence.
+  I have experience as a front-end developer with React and many recent technologies.
 </h3>
 
 <p align="left">
@@ -13,8 +12,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Chatbots, Community Smells, Machine Learning,
-NLP, Software Maintenance, Software Engineering, Fairness in ML systems, Quality attributes of ML systems** 
+- 🔭 I’m currently working on **Software Engineering, Fairness in ML systems, Quality attributes of ML systems, Chatbots, Community Smells, Machine Learning, NLP**
 
 - 📫 How to reach me
 **voriagianmario@gmail.com**
